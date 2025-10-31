@@ -11,7 +11,7 @@ export const PLACEHOLDER_SVG = `data:image/svg+xml;utf8,${encodeURIComponent(`<s
     </svg>`)}`;
 
 // WhatsApp number placeholder
-export const WA_BASE = 'https://wa.me/573001234567';
+export const WA_BASE = 'https://wa.me/573043547935';
 
 export const CATALOGO: Product[] = [
   // Celulares
